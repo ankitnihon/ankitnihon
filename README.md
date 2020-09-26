@@ -11,7 +11,7 @@
 
 ```python
 def Ankit():
-  skills_with_proficiency = {'Python': 'Intermediate', 'SQL': 'Intermediate', 'Machine Learning': 'Intermediate', 'Project Management': 'Advanced', Japanese : 'Advanced'}
+  skills_with_proficiency = {Python: 'Intermediate', SQL: 'Intermediate', Machine Learning: 'Intermediate', Project Management: 'Advanced', Japanese : 'Advanced'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau', 'PowerBI'. 'Excel']
   cloud_architecture = ['heroku', 'GCP']
   "manage people/projects and solve problems"
