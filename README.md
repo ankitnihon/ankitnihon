@@ -5,7 +5,7 @@
 - 🎓 Currently pursuing MBA in Business Analytics to learn the art and science of Management.
 - 🌱 I'm currently learning Data science, Machine Learning and Deep Learning from [iNeuron](https://academy.ineuron.ai/), [Coursera](https://www.coursera.org/), [Udemy](https://www.udemy.com/) and [Kaggle](https://www.kaggle.com/).
 - 💻 I'm looking for a **job** in **Data Science** domain.
-- 🖋️ I can speak English, Japanese and Hindi and looking forward to meet, talk and share my knowledge with everyone.
+- 🖋️ I can speak English, Japanese and Hindi and looking forward to meeting, talking and sharing my knowledge with everyone.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal (2021): **Work** as a Data Scientist and **Create** a **Digital community** to educate people about **Digital Transformation (AI, Digital Marketing etc)**.
 
