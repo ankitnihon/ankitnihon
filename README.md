@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hello, I'm Ankit!
+<img align='right' src="https://s1.gifyu.com/images/Manager.gif" width="210">
 
-<!--
-**ankitnihon/ankitnihon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Working as a business analyst and solving client's problems. Data Science intern at iNeuron. 
+- 🎓 Currently pursuing MBA in Business Analytics to learn the art and science of Managment.
+- 🌱 I'm currently learning Data science, Machine Learning, Deep Learning from [iNeuron](https://academy.ineuron.ai/), [Coursera](https://www.coursera.org/), [Udemy](https://www.udemy.com/) and [Kaggle](https://www.kaggle.com/).
+- 💻 I'm looking for a **job** in **Data Dcience** domain.
+- 🖋️ I can speak English, Japanese and Hindi and looking forward to meet, talk and share my knowledge with everyone.
+- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🎯 Goal (2021): **Work** as a Data Scientist and **Create** **Digital community** to educate people about **Digital Transformation (AI, Digital Marketing etc)**.
 
-Here are some ideas to get you started:
+```python
+def Ankit():
+  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'Machine Learning': 'Intermidiate', 'Project Management': 'Intermediate'}
+  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau', 'PowerBI'. 'Excel']
+  cloud_architecture = ['heroku', 'GCP']
+  "manage people/projects and solve problems"
+  return ∞
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect me on:
+- LinkedIn: https://www.linkedin.com/in/narangankit/
+- Kaggle: https://www.kaggle.com/ankitnarang
+- Tableau: https://public.tableau.com/profile/ankit.narang2430#!/
+
+
+
