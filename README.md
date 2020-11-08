@@ -7,7 +7,7 @@
 - 💻 I'm looking for a **job** in **AI** domain.
 - 🖋️ I can speak English, Japanese and Hindi and looking forward to meeting, talking and sharing my knowledge with everyone.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
-- 🎯 Goal (2021): **Work** as a Data Scientist and **Create** a **Digital community** to educate people about **Digital Transformation (AI, Digital Marketing etc)**.
+- 🎯 Goal (2021): **Work** on AI projects and **create** a **Digital Community** to educate people about **Digital Transformation (AI, Digital Marketing etc)**.
 
 ```python
 def Ankit():
